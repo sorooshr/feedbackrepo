@@ -193,6 +193,7 @@ input:focus {
   position: fixed;
   bottom: 10px;
   right: 40px;
+  position: absolute;
 }
 
 /* FIX: Remove position: absolute to keep about icon at the bottom of the
